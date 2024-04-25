@@ -1,0 +1,8 @@
+Tento projekt se zabývá tvorbou interaktivního modelu rubikovy kostky 3x3 za použití objektově orientovaného programování a knihovny matplotlib.
+
+FUNKCIONALITY
+
+- reprezentace kostky jako objektu
+- ukládání a vizualizace stavu rubikovy kostky v reálném čase
+- možnost s kostkou manipulovat (otáčení stran, rotace kostky)
+- otáčení stran kostky mačkáním příslušných kláves
